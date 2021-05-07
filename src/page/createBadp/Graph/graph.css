@@ -1,0 +1,58 @@
+*{
+  /* color:#000; */
+}
+.graph-card-container{
+    
+    display: flex;
+    justify-content: center;
+}
+.graph-card-wrapper
+{
+    /* height: 100%; */
+    width: 100%;
+display: flex;
+flex-wrap:wrap;
+justify-content: center;
+    background-color: #1F2136;
+    border: 10px;
+    border-radius: 25px;
+    /* max-width: 1000px; */
+  padding: 1rem;
+  margin: 1rem;
+  position: relative;
+  background: linear-gradient(to right, #3A26F0 4.42%, #5B2BE2 44.45%, #CE4A67 93.83%);
+  padding: 10px;
+}
+.graph_card_module {
+    width: 100%;
+  background: #1F2136;
+  color: white;
+  padding: 2rem;
+    border-radius: 25px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.graph_table_css{
+text-align: center;
+
+}
+.graph_table_divider{
+  background-color:#53526A;
+  /* margin: !important; */
+}
+.table td {
+    padding: .75rem;
+    vertical-align: middle;
+    border-top: 0px solid #dee2e6;
+}
+.table th{
+  border-top: 2px solid #53526A;
+}
+.apexcharts-menu-icon{
+  display: none;
+}
+.apexcharts-tooltip {
+    /* background: #f3f3f3; */
+    color: black;
+  }

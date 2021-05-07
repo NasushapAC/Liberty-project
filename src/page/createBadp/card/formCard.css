@@ -1,0 +1,172 @@
+col{
+    /* padding:0px; */
+}
+.table {
+    color: White;
+}
+.left_col{
+    /* padding: 0; */
+    vertical-align: bottom;
+    border: none;
+    font-weight:bold;
+    margin:auto;
+}
+hr{
+    width:100%;
+}
+.labels{
+    color:#E0DFF1;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14.4px;
+line-height: 18px;
+/* identical to box height */
+text-transform: capitalize;
+
+}
+.card_module{
+    /* padding:0px !important; */
+    
+}
+.col{
+    /* padding:0px; */
+}
+.formCard-card-container{
+    
+    display: flex;
+    justify-content: center;
+    min-width: 260px;
+    height: 100%;
+}
+.formCard-card-wrapper
+{
+    width: 100%;
+display: flex;
+flex-wrap:wrap;
+justify-content: center;
+    background-color: #1F2136;
+    border: 10px;
+    border-radius: 25px;
+    /* max-width: 1000px; */
+  padding: 1rem;
+  margin: 1rem;
+
+  position: relative;
+  background: linear-gradient(to right, #3A26F0 4.42%, #5B2BE2 44.45%, #CE4A67 93.83%);
+  padding: 10px;
+}
+.formCard_card_module {
+    width: 100%;
+  background: #1F2136;
+  color: white;
+  padding: 1rem;
+    border-radius: 25px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.formCard_custom_col{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+}
+.formCard_custom_col1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    /* justify-content: space-between; */
+}
+.formCard_custom_h2{
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 51px;
+letter-spacing: 0.02em;
+text-align: right;
+/* margin: auto; */
+}
+.formCard_custom_p{
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+/* margin: auto; */margin-bottom: 0px;
+}
+.formCard_custom_p1{
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: right;
+/* margin: auto; */margin-bottom: 0px;
+}
+.formControl_badp{
+        background: transparent;
+    border: none;
+}
+.formCard_input_div{
+    border: 1px solid #53526A;
+    border-radius: 10px;
+}
+.btn_max{
+    font-family: Montserrat;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: center;
+color: #1F2136;
+    background-color: #E0DFF1;
+    border-color: transparent;
+    border-radius: 10px;
+    height:95%;
+    margin: auto;
+}
+.btn_max:hover{
+    color: #E0DFF1;
+    background-color: #1F2136;
+    border-color: #E0DFF1;   
+}
+.formControl_label{
+    font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: right;
+margin: auto 10px;
+}
+.formCard_btn{
+    background:#3A26E4;
+    width:100%;
+    border: transparent;
+    border-radius: 18px;
+    font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 14px;
+letter-spacing: 0.02em;
+text-align: center;
+
+}
+.formBasicCheckbox{
+    font-family: Montserrat;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+}

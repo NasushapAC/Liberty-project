@@ -1,0 +1,31 @@
+.auction-card-container{
+    
+    display: flex;
+    justify-content: center;
+}
+.auction-card-wrapper
+{
+    /* height: 100%; */
+    width: 100%;
+display: flex;
+flex-wrap:flex;
+justify-content: center;
+    background-color: #1F2136;
+    border: 10px;
+    border-radius: 25px;
+    /* max-width: 1000px; */
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to bottom, #3A26F0 4.42%, #5B2BE2 44.45%, #CE4A67 93.83%);
+  padding: 10px;
+}
+.card_module {
+    width: 100%;
+  background: #1F2136;
+  color: white;
+  padding: 2rem;
+    border-radius: 25px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}

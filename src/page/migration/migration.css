@@ -1,0 +1,225 @@
+.row{
+  
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.migration_center{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+.migration_h1{
+    font-family:Poppins;
+    font-style: normal;
+    font-size: 90px;
+  font-weight: 700;
+  background: rgb(2,0,36);
+
+background: linear-gradient(90deg, #3A26F0 4.42%, #5B2BE2 44.45%, #CE4A67 93.83%);
+
+-webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  text-transform: uppercase;
+}
+.migration_h4{
+    color: #8988A4;
+    font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
+.migration_p{
+color:white;    
+    font-family: Poppins;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 37px;
+letter-spacing: 0.03em;
+text-align: center;
+}
+.cd_main{
+    background-color: #1F2136;
+    color: transparent;
+    margin: 0px 0px 0px 0px;
+    height: 180px;
+    max-width: 100%;
+    /* height: 406px; */
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    border-image:linear-gradient(to bottom right, #3a26e4 15%, #ce4a67 100%); ;
+        }
+        .cd_main::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+    height: 110%;
+    width: 98%;
+    border-radius: 30px;
+    background: linear-gradient(to bottom, #3a26e4 10%, #ce4a67 63%,#1F2136 69%);  
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.cd_wrapper{
+    margin:6% 6%;
+    width: 70%;
+    background-color: #1F2136;
+    color: #fff;
+    text-align: center;
+}
+.count_p{
+    color: #53526A;
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.count_h2{
+/* height: 50px; */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 25px;
+line-height: 149.5%;
+/* or 41px */
+
+text-align: center;
+letter-spacing: 0.065em;
+
+color: #FFFFFF;
+
+}
+.migration_border_left_1 {
+  max-width: 250px;
+  padding: 1rem;
+  color: white;
+  border-left: 3px solid;
+/*   border-style: solid; */
+  border-image: 
+    linear-gradient(
+      to top, 
+      #3A26E4, 
+      #030020 
+    ) 1 100%;
+}
+.migration_border_left_2 {
+  max-width: 250px;
+  padding: 1rem;
+  color: white;
+  border-left: 3px solid;
+/*   border-style: solid; */
+  border-image: 
+    linear-gradient(
+      to top,  
+      #7950F5,
+      #030020
+    ) 1 100%;
+}
+.migration_border_left_3 {
+  max-width: 250px;
+  padding: 1rem;
+  color: white;
+  border-left: 3px solid;
+/*   border-style: solid; */
+  border-image: 
+    linear-gradient(
+      to top, 
+      #8E3AAD, 
+      #030020
+    ) 1 100%;
+}
+.migration_border_left_4{
+  max-width: 250px;
+  padding: 1rem;
+  color: white;
+  border-left: 3px solid;
+/*   border-style: solid; */
+  border-image: 
+    linear-gradient(
+      to top, 
+      #CE4A67, 
+      #030020
+    ) 1 100%;
+}
+
+.migration_h2{
+    font-family: 'Poppins';
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: 52px;
+letter-spacing: 0.02em;
+text-align: center;
+}
+.migration_h3{
+    font-family: "Poppins";
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0.03em;
+text-align: center;
+
+}
+.box{
+    width: 100%;
+    height: 100%;
+}
+.wrapper-mig {display: table}
+
+.child {
+  display: table-cell;
+  vertical-align: middle;
+ }
+
+ 
+.mig_main{
+    /* background-color: #1F2136; */
+    color: transparent;
+    margin: 0px 0px 0px 0px;
+    height: 180px;
+    max-width: 100%;
+    /* height: 406px; */
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border-image:linear-gradient(to bottom right, #3a26e4 15%, #ce4a67 100%); ; */
+        }
+.mig_wrapper{
+    margin:6% 6%;
+    width: 70%;
+    /* background-color: #1F2136; */
+    color: #fff;
+    text-align: center;
+}
+.mig_p{
+    color: white;
+    font-family: 'Poppins';
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+margin: 0px 0px 0px 0px;
+}

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/cryptoCurrency/static/css/main.34330ec7.chunk.css",
+    "main.js": "/cryptoCurrency/static/js/main.8611ae83.chunk.js",
+    "main.js.map": "/cryptoCurrency/static/js/main.8611ae83.chunk.js.map",
+    "runtime-main.js": "/cryptoCurrency/static/js/runtime-main.42e7bea8.js",
+    "runtime-main.js.map": "/cryptoCurrency/static/js/runtime-main.42e7bea8.js.map",
+    "static/css/2.150d169a.chunk.css": "/cryptoCurrency/static/css/2.150d169a.chunk.css",
+    "static/js/2.1eb8011a.chunk.js": "/cryptoCurrency/static/js/2.1eb8011a.chunk.js",
+    "static/js/2.1eb8011a.chunk.js.map": "/cryptoCurrency/static/js/2.1eb8011a.chunk.js.map",
+    "static/js/3.d0d8d39f.chunk.js": "/cryptoCurrency/static/js/3.d0d8d39f.chunk.js",
+    "static/js/3.d0d8d39f.chunk.js.map": "/cryptoCurrency/static/js/3.d0d8d39f.chunk.js.map",
+    "index.html": "/cryptoCurrency/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/cryptoCurrency/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.34330ec7.chunk.css.map": "/cryptoCurrency/static/css/main.34330ec7.chunk.css.map",
+    "static/js/2.1eb8011a.chunk.js.LICENSE.txt": "/cryptoCurrency/static/js/2.1eb8011a.chunk.js.LICENSE.txt",
+    "static/media/Astronaut.02fe7ab6.svg": "/cryptoCurrency/static/media/Astronaut.02fe7ab6.svg",
+    "static/media/App.css": "/cryptoCurrency/static/media/Background.2dff75c3.png",
+    "static/media/Planet.a946c0e0.svg": "/cryptoCurrency/static/media/Planet.a946c0e0.svg",
+    "static/media/SpaceStation.94a2d6ab.svg": "/cryptoCurrency/static/media/SpaceStation.94a2d6ab.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42e7bea8.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.1eb8011a.chunk.js",
+    "static/css/main.34330ec7.chunk.css",
+    "static/js/main.8611ae83.chunk.js"
+  ]
+}

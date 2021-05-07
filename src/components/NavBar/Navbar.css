@@ -1,0 +1,44 @@
+.nav__wrapper{
+    padding: 0px;
+    text-align: end;
+}
+.brand__name{
+    padding: .3125rem 1.3125rem !important;
+}
+
+.navbar{
+    padding: 0rem 0rem !important;
+}
+.dropdown-menu{
+    /* text-align: end !important; */
+    /* background-color: transparent !important; */
+background-color: rgba(255, 255, 255, 0.5);
+    width:50px !important;
+}
+.dropdown-item{
+    /* color:rgba(255,255,255,.5) !important; */
+}
+/* .navbar-brand{
+    padding: .3125rem 1.3125rem !important;
+} */
+/* 
+@media only screen and (max-width : 768px) {
+    .navbar-collapse {
+    background: red;
+  }
+} */
+
+.brand__name a{
+    color: white !important;
+}
+.brand__name a:hover{
+text-decoration: none !important;
+}
+.dropdown-item:focus, .dropdown-item:hover{
+    color: #16181b !important;
+    text-decoration: none;
+    background-color: #e9ecef;
+}
+.dropdown-menu {
+border: none;
+}

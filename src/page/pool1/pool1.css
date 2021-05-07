@@ -1,0 +1,61 @@
+.Row_css{
+    display:contents;
+}
+.h1_css{
+    font-family: 'Poppins';
+font-size: 80px;
+  font-weight: 800;
+  background: rgb(2,0,36);
+    background: linear-gradient(
+90deg
+, #3A26F0 0%, #5B2BE2 17.46%, #CE4A67 79.52%);
+-webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+.p{
+    position: absolute;
+width: 789px;
+height: 49px;
+left: 325px;
+top: 332px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 37px;
+text-align: center;
+
+color: white;
+}
+
+.p_css{
+/* width: 789px; */
+/* height: 49px; */
+/* left: 325px; */
+/* top: 332px; */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 37px;
+text-align: center;
+color: white;
+}
+.pool1-btn-custom{
+  width: 50%;
+  background-color: #3A26E4 !important;
+  border-color:#3A26E4 !important;
+  border-radius: 30px !important;
+      font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 100.68%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    padding: 15px 15px;
+}
